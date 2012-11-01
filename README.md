@@ -2,17 +2,15 @@ Infinity Conky for ElementaryOS Luna by @raerpo
 
 Installation Intructions:
 - Open a terminal and run this commands in order:
+
 ```
 sudo apt-get install conky conky-all
-
 wget -O ConkyInfinityElementary.zip https://github.com/raerpo/ConkyElementaryOS/blob/master/ConkyInfinityElementary.zip
-
 unzip ConkyInfinityElementary.zip
-
 rm ConkyInfinityElementary.zip
-
 chmod +x .start-conky.sh
 ```
+
 - In System Settings go to Startup Applications and clic in Add button. In the command box insert `./.start-conky.sh` and clic "Add"
 
 
