@@ -5,7 +5,7 @@ Installation Intructions:
 
 ```
 sudo apt-get install conky conky-all
-wget -O ConkyInfinityElementary.zip https://github.com/raerpo/ConkyElementaryOS/blob/master/ConkyInfinityElementary.zip
+wget -O ConkyInfinityElementary.zip https://dl.dropbox.com/u/42476216/ConkyInfinityElementary.zip
 unzip ConkyInfinityElementary.zip
 rm ConkyInfinityElementary.zip
 chmod +x .start-conky.sh
