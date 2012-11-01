@@ -1,5 +1,8 @@
 Infinity Conky for ElementaryOS Luna by @raerpo
 
+Screenshot:
+https://dl.dropbox.com/u/42476216/ConkyElementaryOS.png
+
 Installation Intructions:
 - Open a terminal and run this commands in order:
 
