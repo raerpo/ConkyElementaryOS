@@ -10,8 +10,9 @@ unzip ConkyInfinityElementary.zip
 rm ConkyInfinityElementary.zip
 chmod +x .start-conky.sh
 ```
-
+- You can close the terminal.
 - In System Settings go to Startup Applications and clic in Add button. In the command box insert `./.start-conky.sh` and clic "Add"
+- Close session and enter again.
 
 
 Modifications from Infinity Conky:
